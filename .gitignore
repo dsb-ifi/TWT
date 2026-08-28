@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editors and operating systems
+.DS_Store
+._*
+.idea/
+.vscode/
+
+# Credentials and local configuration
+.env
+.env.*
+*.key
+*.pem
+
+# Experiment outputs
+checkpoints/
+logs/
+outputs/
+scratch/
+wandb/
+*.ckpt
+*.pth
+*.pt
+*.npy
+*.npz
+*.pkl
+*.pickle
+
+# Generated figures and reports
+*.png
+*.jpg
+*.jpeg
+*.pdf

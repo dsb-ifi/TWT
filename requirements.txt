@@ -1,0 +1,15 @@
+einops
+matplotlib
+numpy
+pandas
+Pillow
+safetensors
+scikit-learn
+scikit-image
+opencv-python-headless
+timm
+torch
+torchvision
+transformers
+openslide-python
+openslide-bin

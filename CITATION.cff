@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying BMVC 2026 paper when using this software."
+title: "Transformer-Within-Transformer"
+type: software
+authors:
+  - family-names: Tomar
+    given-names: Dhananjay
+  - family-names: Aasan
+    given-names: Marius
+  - family-names: Kleppe
+    given-names: Andreas
+  - family-names: Ramírez Rivera
+    given-names: Adín
+repository-code: "https://github.com/undercutspiky/TWT"
+url: "https://github.com/dsb-ifi/TWT"
+preferred-citation:
+  type: conference-paper
+  title: "A Smaller Transformer in Your Transformer"
+  authors:
+    - family-names: Tomar
+      given-names: Dhananjay
+    - family-names: Aasan
+      given-names: Marius
+    - family-names: Kleppe
+      given-names: Andreas
+    - family-names: Ramírez Rivera
+      given-names: Adín
+  collection-title: "British Machine Vision Conference"
+  year: 2026
